@@ -1,2 +1,2 @@
-# project
-Igrowthdata project 레포지토리입니다.
+# project-temlpate
+프로젝트 예시 템플릿
